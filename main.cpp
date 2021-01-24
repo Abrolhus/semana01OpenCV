@@ -30,3 +30,8 @@ int main() {
     int tecla = waitKey(0); // faz com que o programa espere ate que o usuario aperte uma tecla. waitkey(2000) espera por 2 segundos, waitKey(60000) por um minuto
     return 0;
 }
+
+/* Nota do Autor:
+ * Um exercicio interessante a partir dessa implementação é tentar desenhar um retangulo em volta da área com cores invertidas.
+ * Interessante também (e consideravelmente mais difícil) seria imprimir (imshow) somente a área com cores invertdas. 
+ */
